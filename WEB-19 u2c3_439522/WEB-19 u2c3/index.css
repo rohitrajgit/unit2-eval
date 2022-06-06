@@ -1,0 +1,45 @@
+/* Fill CSS here */
+h1{
+    text-align: center;
+    color: #0368aa;
+}
+
+div>form{
+    width: 15%;
+    padding: 30px;
+    margin-left: 50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+div>form>input{
+    margin-bottom: 10px;
+}
+table>thead{
+    background-color: #0368aa;
+    color: white;
+   
+}
+thead>tr>th{
+    border: 1px solid white;
+}
+tr>th{
+    padding: 5px 15px;
+}
+table{
+   margin-bottom: 70px;
+  justify-content: flex-end;
+}
+}
+#submit{
+    width: 100%;
+    background-color: #2b619e ;
+    border-radius: 20px;
+    border: transparent;
+    color: white;
+    font-weight: bold;
+    padding: 2px 5px;
+}
+tbody>tr>td{
+    padding: 10px 20px;
+   text-align: center;
+   background-color: antiquewhite;
+}
